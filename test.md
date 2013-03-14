@@ -1,10 +1,12 @@
-
 Choix de mon prochain PC
 =========================
 
-* 15"
+* intel i5 ou i7
+* écran 15,6"TFT HD (Résolution 1366x768)
 * Disque dur > 120Go, voir pour le SSD
-* 
+* minimum 8Go de RAM
+* carte graphique assez bien pour de la grosse 3D de temps en temps
+* Batterie 6 cells
 
 Boutiques
 ===========
