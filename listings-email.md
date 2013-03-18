@@ -1,4 +1,3 @@
-
 # Vendeurs de listing e-mails
 
 J'ai reçu des e-mails de prospections commerciales sur des adresses e-mail qui n'existent pas.
@@ -44,6 +43,8 @@ En plus de tout ça, je vais tester quelque chose de nouveau : publier les adres
 
 Quand je dis des boulets, c'est d'abord les vendeurs d'adresses qui envoient sur des adresses inexistantes, mais également de leurs clients réguliers, qui sont parfois complètement complices.
 
+Je ne m'intéresse qu'au spam en français, puisque que les listings francophones sont souvent vendus depuis la France, à des entreprises en France.
+
 En faisant ça, un robot spammer qui passe par ici va récupérer ces adresses et les inclure dans des campagnes de mailing professionnel. Et les spammers vont se spammer entre eux, entrainant un coût et une charge supplémentaire sur leurs infrastructures.
 
 Pour aller encore plus loin, je vais essayer de publier les adresses des commerciaux.
@@ -62,7 +63,6 @@ Si vous êtes un robot, c'est bien dommage....
 ### Vendeurs de listing
 
 * info@email-brokers.com
-
 * info@france-prospect.fr
 * drh@france-prospect.fr
 
@@ -71,3 +71,4 @@ Si vous êtes un robot, c'est bien dommage....
 #### "Bons plans"
 * news@mesplansmalins.fr
 * news@sup2deal.com
+* news@plans-futes.fr
