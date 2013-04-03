@@ -8,6 +8,8 @@ Choix de mon prochain PC
 * carte graphique assez bien pour de la grosse 3D de temps en temps
 * Batterie 6 cells
 
+A voir : utiliser les specs d'un macbook pro pour voir ce que ça donne comme diff de prix
+
 Boutiques
 ===========
 
