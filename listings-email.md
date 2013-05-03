@@ -54,7 +54,7 @@ C'est nettement moins efficace de répondre à ses mails quand on reçoit du spa
 
 ## Le listing
 
-S'IL VOUS PLAIT, N'UTILISEZ PAS CES ADRESSES.
+N'UTILISEZ PAS CES ADRESSES.
 NI DANS VOS CAMPAGNES DE PROSPECTION E-MAIL, NI POUR AUCUN CONTACT AVEC L'ENTREPRISE.
 
 Si vous le faîtes, vous engagez votre responsabilité.
@@ -62,9 +62,19 @@ Si vous êtes un robot, c'est bien dommage....
 
 ### Vendeurs de listing
 
-* info@email-brokers.com
+#### Manageo / France-prospect
 * info@france-prospect.fr
 * drh@france-prospect.fr
+* Lionel BIANCO, Directeur Business & Développement: l.bianco@manageo.fr
+* P.D.G. Patrice CECCALDI : p.ceccaldi@manageo.fr
+* Responsable commerce électronique: c.cessiecq@manageo.fr
+
+#### Email-brokers
+
+Domicilié en belgique
+* info@email-brokers.com
+* PDG: wvw@email-brokers.com
+* Directeur technique: jga@email-brokers.com
 
 ### Clients
 
