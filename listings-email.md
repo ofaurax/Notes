@@ -72,6 +72,7 @@ Si vous êtes un robot, c'est bien dommage....
 * news@mesplansmalins.fr
 * news@sup2deal.com
 * news@plans-futes.fr
+* news@mon-bonplan.fr
 
 #### Agences web
 * contact@com-julien.com
