@@ -76,6 +76,10 @@ Domicilié en belgique
 * PDG: wvw@email-brokers.com
 * Directeur technique: jga@email-brokers.com
 
+#### spammé sur eml89.net par Blue-Stella.net
+Hébergé par OVH, rapport spamcop sans suite
+* PDG igor@bluestella.fr igor@blue-stella.net
+
 ### Clients
 
 #### "Bons plans"
