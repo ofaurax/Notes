@@ -87,6 +87,7 @@ Hébergé par OVH, rapport spamcop sans suite
 * news@sup2deal.com
 * news@plans-futes.fr
 * news@mon-bonplan.fr
+* news@coup2maitre.com
 
 #### Agences web
 * contact@com-julien.com
