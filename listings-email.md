@@ -62,6 +62,12 @@ Si vous êtes un robot, c'est bien dommage....
 
 ### Vendeurs de listing
 
+#### Note Bleue / Zecible.fr
+* info@notebleue.com
+* PDG : Patrick PERISSÉ, peut être Patrick.PERISSE@notebleue.com ou PPERISSE@notebleue.com
+* sites web de Note Bleue : www.notebleue.com / www.zeref.fr / www.zemail.fr / www.zecible.fr / www.zeprint.fr / www.zebuzz.fr 
+* également : fichiers-b2c.fr / ciblebox.fr / suivi-mailing.com
+
 #### Manageo / France-prospect
 * info@france-prospect.fr
 * drh@france-prospect.fr
