@@ -11,6 +11,14 @@ Bien définir son objectif
 Neuf ou ancien ?
 Constiture son apport : capital, aides, déblocage de fonds, etc.
 
+Financement
+~~~~~~~~~~~
+Sources de financement:
+* apport
+* crédit banque
+* entreprise
+* aides de l'État
+
 Pendant l'achat
 ---------------
 
