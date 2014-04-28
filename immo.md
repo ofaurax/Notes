@@ -22,9 +22,34 @@ Pour un acheteur, la meilleure stratégie consiste à chercher sur plusieurs sit
 
 #### Agences
 
-Les agences ont un certain nombre de biens
+Les agences ont un certain nombre de biens à la vente.
+
+Quand un vendeur passe par un agent, cela signifie un certain nombre de choses :
+* le vendeur accepte de payer pour vendre plus vite
+* le prix est évalué par un professionnel (qui a intérêt à vendre vite)
+* le vendeur ne veut pas s'embêter avec une vente immobilière
+
+De la même manière que les sites d'annonces payants, il y a moins de biens dans les agences, mais on a l'avantage qu'ils sont pré-triés.
+
+Attention ! Il faut comprendre qu'un agent travaille tout d'abord pour lui-même.
+Son objectif, c'est de vendre vite, avec un maximum de commission, dans cet ordre-là.
+Il va donc privilégier une vente rapide, plutôt qu'une vente plus longue qui rapporterait plus.
+
+Les prix en agence sont présentés "Frais d'Agences Inclus" (FAI), c'est-à-dire que c'est le montant "net vendeur" + la commission de l'agent (environ 3 ou 4%).
+Le client de l'agent, c'est le vendeur, qui consent donc à perdre 3 ou 4% de la valeur de son bien pour le vendre.
+
+En tant qu'acheteur, il faut donc veiller à ce que le vendeur et l'agent ne survendent par le bien pour qu'une partie de la commission de l'agent soit payé par l'acheteur.
+
+D'autre part, si vous arrivez à "passer en direct", c'est-à-dire à contacter directement le vendeur, il est possible que celui-ci vous renvoit vers l'agence s'il ne veut pas s'embêter.
+Lors d'un contact direct, il est donc important de signaler que vous simplifierez au maximum la vie de l'acheteur, tout en récupérant une partie de la commission (si vous récupérez tout, il n'a aucun intérêt à passer en direct).
 
 ### Que regarder dans une visite ?
+
+#### Gros oeuvre : murs, charpente
+
+#### Thermique : Chauffage, isolation, ventilation
+
+#### Réseaux : eau, électricité
 
 ### Qu'est-ce qu'une bonne affaire ?
 
