@@ -1,5 +1,17 @@
 # Ce qu'il faut savoir dans l'immobilier
 
+## Plusieurs années avant l'achat
+
+Il faut épargner en prévision de l'immobilier
+
+### Les produits d'épargne
+
+PEL, CEL, Livret A, LEP, Assurance Vie
+
+### Avoir une gestion financière saine
+
+Pas de découvert, fin des différents crédits
+
 ## Avant l'achat
 
 ### Bien définir son objectif
