@@ -4,9 +4,34 @@
 
 Il faut épargner en prévision de l'immobilier
 
-### Les produits d'épargne
+### Les produits d'épargne pour l'immobilier
 
-PEL, CEL, Livret A, LEP, Assurance Vie
+#### PEL
+
+#### CEL
+
+Le Compte Epargne Logement est un très bon livret pour de l'épargne logement.
+
+Il donne droit à des prêts à taux très intéressant même lorsque les taux sont très bas.
+Par contre, le taux de rémunération est en-dessous de celui du livret A.
+
+La quantité des droits à prêts est proportionnel aux intérêts acquis, il est donc important de remplir très vite ce livret pour pouvoir emprunter au maximum avec ce taux très favorable.
+
+* Taux en 2014 : 0,75% (net ???)
+* Capital disponible
+* Donne droit à prêts au taux de 2,25% (??? limite montant)
+* ??? Prime d'État
+* ??? plafond
+
+#### Livret A / LEP / Livret Bleu
+
+Pas vraiment un produit d'épargne pour l'immobilier, mais c'est le minimum à faire pour quelqu'un voulant une gestion simple de son épargne.
+
+??? Différences LEP, Livret Bleu
+
+* Taux en 2014 : 1,25% net d'impôts
+* Capital disponible
+* ??? plafond
 
 ### Avoir une gestion financière saine
 
