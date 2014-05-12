@@ -8,6 +8,18 @@ Il faut épargner en prévision de l'immobilier
 
 #### PEL
 
+Le Plan d'Épargne Logement est le placement le plus connu lorsqu'il s'agit d'épargne immobilière.
+
+En théorie, c'est un placement intéressant puisqu'il combine une rémunération attractive supérieure au livret A, tout en donnant des droits à prêt à un taux intéressant.
+En pratique, c'est plus compliqué puisque les taux actuels sont très bas, et que donc les droits à prêts ne sont plus intéressants.
+Il reste donc la rémunération supérieure à celle du livret A, mais il faut prendre en compte que le capital placé est bloqué.
+
+* Taux en 2014 : 2,25% (net ?)
+* Capital bloqué
+* Donne droit à prêts au taux de 4,25% (limite ?)
+* ??? Prime d'état
+* plafond
+
 #### CEL
 
 Le Compte Epargne Logement est un très bon livret pour de l'épargne logement.
