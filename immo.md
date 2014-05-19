@@ -113,6 +113,31 @@ Sources de financement:
 * entreprise
 * aides de l'État
 
+Faire un calcul correct:
+* prise en compte des frais de notaires
+* impôts supplémentaires pour les propriétaires
+* déduction des impôts des intérêts d'emprunt
+* prise en compte des impôts sur les loyers
+
+#### Apport
+
+On pense souvent à ce qui est sur son compte courant, mais il faut voir aussi qu'un certain nombre de placements ont une clause de déblocage anticipé lors de l'achat d'une résidence principale.
+TODO: lesquels ???
+
+#### Crédit banque
+
+Lorsqu'on fait un emprunt immobilier, l'objectif premier est de minimiser les frais liés à l'emprunt (coût total).
+Cela inclut les intérêts, mais également l'assurance emprunteur, et les frais de gestion de compte si on doit déménager son compte bancaire principal dans une nouvelle banque.
+
+Comme base, il faut calculer le coût total de ce qu'on doit emprunter en utilisant tout son apport et en remboursement au maximum de ses capacités.
+
+Ensuite, on peut faire varier plusieurs paramètres :
+* on négocie un meilleur taux (concurrence entre les banques)
+* on négocie les frais annexes (assurance externe, etc.)
+* on étale le remboursement sur plus longtemps, ce qui fait baisser la mensualité et augmente le taux d'emprunt
+* on utilise pas tout son apport, ce qui augmente le coût global, mais permet de garder de la disponibilité en cas de coup dur ou de placement plus avantageux (surtout quand les taux sont bas)
+
+
 ## Pendant l'achat
 
 Le déroulement d'un achat : visite, proposition, compromis, recherche
