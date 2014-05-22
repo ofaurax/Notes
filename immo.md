@@ -52,7 +52,33 @@ Pas de découvert, fin des différents crédits
 ## Avant l'achat
 
 ### Bien définir son objectif
-Neuf ou ancien ?
+
+Pour réussir un investissement immobilier, il est capital de définir précisément son objectif.
+Il faut que l'objectif soit orienté sur l'utilisation du bien, précis et réaliste.
+
+#### Orienté sur l'utilisation du bien
+
+Il faut définir l'objectif avec l'utilisation qui va en être faite.
+
+MAUVAIS : "un appartement ancien au 1er étage dans le centre-ville pas trop cher"  
+BON: "un appartement T3 pour couple + 1 enfant, proche d'une école pour moins de 200 000€"
+
+La différence, c'est que le 2ème cas ne vous restreint pas.
+Si un type de logement auquel vous n'aviez pas pensé rentre dans vos critères, ça peut être une occasion.
+
+#### Précis
+
+Il est facile de trouver "un T3", mais beaucoup moins de trouver "un T3 avec terrasse orientée sud proche d'un centre commercial".
+Pensez à vos contraintes : trajet pour aller au travail, commerces, services, utilisation en semaine, et lors des weekends.
+
+Avoir un projet précis permet de ne pas perdre son temps avec des visites qui n'aboutiront pas.
+
+#### Réaliste
+
+C'est le pendant du point précédent.
+Il y a des points qui sont non-négociables, mais il faut aussi savoir ce qu'on est prêt à lâcher.
+
+C'est assez difficile de trouver "un T4 vue mer avec terrasse en centre ville", donc sachez à l'avance si vous voulez réellement une vue mer ou un centre ville....
 
 ### Où trouver des biens ?
 
