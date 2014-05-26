@@ -120,6 +120,11 @@ Lors d'un contact direct, il est donc important de signaler que vous simplifiere
 
 ### Que regarder dans une visite ?
 
+Sachez que tout ne va pas être parfait.
+Il est très rare de tomber sur un bien parfait à tarif raisonnable.
+Donc gardez à l'esprit qu'il est possible de faire des travaux, et que la déco pourra être refaite à votre goût.
+
+
 #### Gros oeuvre : murs, charpente
 
 #### Thermique : Chauffage, isolation, ventilation
@@ -170,6 +175,26 @@ Le déroulement d'un achat : visite, proposition, compromis, recherche
 de prêt, signature notaire
 
 ### Avoir le bon état d'esprit
+
+Pour faire une bonne affaire, il faut négocier.
+Ne soyez pas timide et n'hésitez pas à faire une proposition 10% en dessous du prix demandé.
+Beaucoup d'agents gonflent le prix d'un bien pour faire payer la commission à l'acheteur.
+Ne cédez pas au bluff du vendeur ou de son agent selon lequel il y aurait une autre proposition.
+
+Il est préférable de manquer une bonne vente que de s'engager une mauvaise vente.
+
+
+
+### La proposition
+
+C'est le document que l'acheteur transmet au vendeur dans lequel il propose un prix pour le bien.
+
+### Le compromis
+
+C'est le document qui atteste que l'acheteur cherche à acheter le bien.
+Une fois signé, le vendeur réserve l'exclusivité du bien à l'acheteur.
+L'acheteur s'engage à trouver un financement pour ce bien. Les conditions de financement sont précisées dans le compromis.
+En cas d'échec à trouver un financement, la preuve d'une recherche suffisante doit être apportée par l'acheteur, sous la forme de refus de prêt.
 
 ## Après l'achat
 
