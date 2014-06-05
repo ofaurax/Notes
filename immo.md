@@ -11,14 +11,20 @@ Il faut épargner en prévision de l'immobilier
 Le Plan d'Épargne Logement est le placement le plus connu lorsqu'il s'agit d'épargne immobilière.
 
 En théorie, c'est un placement intéressant puisqu'il combine une rémunération attractive supérieure au livret A, tout en donnant des droits à prêt à un taux intéressant.
-En pratique, c'est plus compliqué puisque les taux actuels sont très bas, et que donc les droits à prêts ne sont plus intéressants.
+En pratique, c'est plus compliqué puisque les taux actuels sont très bas (2014), et que donc les droits à prêts ne sont plus intéressants.
 Il reste donc la rémunération supérieure à celle du livret A, mais il faut prendre en compte que le capital placé est bloqué.
 
-* Taux en 2014 : 2,25% (net ?)
-* Capital bloqué
-* Donne droit à prêts au taux de 4,25% (limite ?)
-* ??? Prime d'état
-* plafond
+* Taux en 2014 : 2,50% brut (2,11% net), désigné comme [taux du PEL]
+* Prime d'état de 1%, limitée à 1525€, égal à [droits à prêt]/[taux du PEL]
+* Versement obligatoire annuel de 540€ (soit 45€ par mois)
+* Versement exceptionnel possible jusqu'au 10e anniversaire
+* Capital bloqué, limité à 61 200€
+* Donne droit à prêts au taux de 4,25%, dans la limite de 92000€ d'emprunt
+
+Comme [droits à prêt] = [épargne]x[taux du PEL]/100, la prime de l'état est de [épargne]/100, soit un taux de 1%.
+Pour atteindre le plafond, il faut donc générer [limite]x(100/[taux prime])x[taux du PEL]/100, ce qui se simplifie en [limite]/[taux prime]x[taux du PEL].
+Ce qui donne 1525/1x2.5 = 1525x2.5 = 3812.
+Il faut donc avoir généré 3812€ d'intérêt au moment de la fin de la phase d'épargne pour arriver au plafond de la prime d'État.
 
 #### CEL
 
