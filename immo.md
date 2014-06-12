@@ -130,12 +130,36 @@ Sachez que tout ne va pas être parfait.
 Il est très rare de tomber sur un bien parfait à tarif raisonnable.
 Donc gardez à l'esprit qu'il est possible de faire des travaux, et que la déco pourra être refaite à votre goût.
 
+#### L'emplacement, l'emplacement, l'emplacement
+
+Le plus important est la situation du bien.
+Est-il proche de votre travail ? Des services que vous utilisez régulièrement ?
+Est-il éloigné des sources de nuisances visuelles, sonores, olfactives ?
+Est-ce qu'une future construction peut vous boucher la vue ?
 
 #### Gros oeuvre : murs, charpente
 
+Les façades sont à refaire environ tous les 10 ans (??? TODO pierre)
+
+Les signes d'une charpente bien entretenue sont TODO.
+Cela est surtout visible à l'endroit TODO.
+
 #### Thermique : Chauffage, isolation, ventilation
 
-#### Réseaux : eau, électricité
+Le chauffage (et/ou la climatisation) sont des coûts cachés de l'utilisation d'un bien immobilier.
+C'est pour cela qu'il est important de bien vérifier que le bien est correctement isolé.
+
+Cela est plus facile à voir sur un bien qui n'est pas occupé, en le visitant à la fois en pleine journée et en soirée, pour voir si la température reste stable ou suit celle de l'air ambient.
+
+Pour la ventilation, regardez les joints/plafonds dans les salles d'eau, c'est souvent très évocateur.
+
+#### Réseaux : eau, gaz, électricité
+
+Pour chacun des réseaux (eau, gaz, électricité), il est plus simple d'avoir un compteur individuel, mais ce n'est pas toujours le cas.
+Veillez à savoir comment sont réparties les dépenses en cas de mutualisation d'une chaudière par exemple.
+
+Le tableau électrique doit être au norme.
+Suivant votre consommation et installation actuelle, faites attention à ce que l'ampérage (TODO ???) corresponde, pour éviter d'avoir des coupures à répétition, par exemple lorsque vous cuisinez, lancez la machine à laver et utilisez un sèche-cheveu.
 
 ### Qu'est-ce qu'une bonne affaire ?
 
