@@ -163,6 +163,16 @@ Suivant votre consommation et installation actuelle, faites attention à ce que 
 
 ### Qu'est-ce qu'une bonne affaire ?
 
+Tout dépends de votre objectif.
+
+Si vous achetez la maison de vos rêves pour y vivre la vie que vous rêvez, une bonne affaire sera "simplement" de l'acquérir, et d'arriver à rembourser les éventuels crédits dont vous avez eu besoin.
+Cela induit que "acheter à n'importe quel prix" n'est pas une option : si vous êtes trop endetté, vous allez être obligé d'hypothéquer votre bien, ou alors de réduire votre train de vie.
+
+Si vous achetez un bien pour le louer et/ou réduire vos impôts, votre objectif sera un rendement à l'année, ou un dégrèvement d'impôt.
+Dans ce cas également, il faut étudier correctement la rentabilité de votre montage et prévoir les évolutions législatives possibles.
+
+Dans tous les cas, il vous faut évaluer combien de temps vous souhaitez garder le bien, les perspectives de revente, de location, la tendance de l'emplacement et bien évidemment, le prix proposé.
+Gardez à l'esprit qu'en ne faisant rien, votre argent est à la fois rongé par l'inflation, mais peut être rentabilisé sur un livret A, ou sur un compte bloqué.
 
 ### Financement
 
