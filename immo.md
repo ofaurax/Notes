@@ -161,6 +161,11 @@ Veillez à savoir comment sont réparties les dépenses en cas de mutualisation 
 Le tableau électrique doit être au norme.
 Suivant votre consommation et installation actuelle, faites attention à ce que l'ampérage (TODO ???) corresponde, pour éviter d'avoir des coupures à répétition, par exemple lorsque vous cuisinez, lancez la machine à laver et utilisez un sèche-cheveu.
 
+### Questions à poser pendant une visite
+
+* Quelle est la taxe foncière ?
+* Quelles sont les charges de copropriété ?
+
 ### Qu'est-ce qu'une bonne affaire ?
 
 Tout dépends de votre objectif.
@@ -238,7 +243,33 @@ En cas d'échec à trouver un financement, la preuve d'une recherche suffisante 
 
 ## Après l'achat
 
-Déduction des intérêts d'emprunt ?
-Prévenir la dépréciation du bien
-Mettre en location
-Revendre
+En 2014, il n'existe plus de crédit d'impôts sur les intérêts d'emprunt, comme ce fut le cas entre 2007 et 2010.
+Les seuls crédit d'impôts restants sont ceux pour la rénovation énergétique, dans le cadre du développement durable.
+
+La loi Duflot permet de déduire 18% d'un bien neuf mis en location, étalé sur 9 ans et dans la limite de 9000€.
+
+### Prévenir la dépréciation du bien
+
+### Mettre en location
+
+Les loyers sont un revenu supplémentaire à déclarer aux impôts.
+Un abattement forfaitaire est possible sous conditions, mais vous pouvez également déclarer avec le régime réel pour déduire de gros travaux.
+Dans le cas de dépenses supérieures aux loyers (travaux importants), vous créez un déficit foncier qui permet de réduire votre revenu imposable (et donc vos impôts).
+
+### Revendre
+
+Impôts:
+* droits de mutation
+* impôts foncier
+* revenu fonciers dans le cas de la location
+* imposition des plus-values
+
+## En 2014
+
+Mettre ici les informations et analyse pertinentes en 2014.
+
+* Le marché immobilier est baissier, moins de ventes sont faites, mais pour des logements de meilleures qualité
+* Les taux sont bas, c'est un bon moment pour renégocier un ancien taux
+* Les prix baissent, les loyer également, ce n'est pas le bon moment pour de l'investissement locatif, sauf réelle bonne affaire, ou défiscalisation Duflot
+* Les taux étant bas, les droits à prêts du PEL sont inutiles
+
