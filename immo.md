@@ -35,11 +35,11 @@ Par contre, le taux de rémunération est en-dessous de celui du livret A.
 
 La quantité des droits à prêts est proportionnel aux intérêts acquis, il est donc important de remplir très vite ce livret pour pouvoir emprunter au maximum avec ce taux très favorable.
 
-* Taux en 2014 : 0,75% (net ???)
+* Taux en 2014 : 0,75% brut (2/3 du livret A, arrondit au 0,25 le plus proche)
 * Capital disponible
-* Donne droit à prêts au taux de 2,25% (??? limite montant)
-* ??? Prime d'État
-* ??? plafond
+* Donne des droits à prêts au taux de 2,25% (= taux + 1,5%) dans la limite de 23 000€, à partir de 18 mois
+* Prime d'État : 50% des intérêts générés
+* Plafond : 15300€
 
 #### Livret A / LEP / Livret Bleu
 
@@ -47,7 +47,7 @@ Pas vraiment un produit d'épargne pour l'immobilier, mais c'est le minimum à f
 
 ??? Différences LEP, Livret Bleu
 
-* Taux en 2014 : 1,25% net d'impôts
+* Taux en 2014 : 1,25% net d'impôts (1% au 1er aout 2014)
 * Capital disponible
 * ??? plafond
 
