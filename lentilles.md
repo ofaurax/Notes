@@ -6,7 +6,7 @@ Comparaison tarifs sites de lentilles
 | GrandOptical Aubagne | | | | 103€ (dernière commande) |
 | http://lentilles.com | 31,20€ | 49,90€ | 5,63€ | 86,73€ |
 | http://lentilles-moins-cheres.com | 35,90€ | 49,90€ | 4,60€ | 90,40€ |
-| **http://www.lentilles-contact.com** | 32,90€ | 45,90€ | offert en point relais ou 7,56€ | 78,80€ (point relais) |
+| **http://www.lentilles-contact.com** (devenu promolentilles.com) | 29,90€ | 45,90€ | offert en point relais ou 7,56€ | 78,80€ (point relais) |
 | http://malentille.com | 33,90€ | 40,60€ | 4,50€ | 79€ |
 | http://lentilles-online.net | 38,90€ | 53,90€ | gratuit | 92,80€ |
 
