@@ -7,7 +7,7 @@ Comparaison tarifs sites de lentilles
 | http://lentilles.com | 31,20€ | 49,90€ | 5,63€ | 86,73€ |
 | http://www.lentillesmoinscheres.com | 27,60€ | 40,50€ | 3€ point relais ou 4,60€ domicile | 71,10€ |
 | **http://www.lentilles-contact.com** (devenu promolentilles.com) | 29,90€ | 45,90€ | offert en point relais ou 7,56€ | 78,80€ (point relais) |
-| http://malentille.com | 33,90€ | 40,60€ | 4,50€ | 79€ |
+| http://malentille.com | 34,90€ | 47,90€ | 4,80€ | 87,60€ |
 | http://lentilles-online.net | 38,90€ | 53,90€ | gratuit | 92,80€ |
 
 **J'ai un code parrainage pour lentilles-contact.com, demandez-moi une invitation sur olivier ARobaZ faurax POINt FR**
