@@ -213,6 +213,23 @@ Ensuite, on peut faire varier plusieurs paramètres :
 * on étale le remboursement sur plus longtemps, ce qui fait baisser la mensualité et augmente le taux d'emprunt
 * on utilise pas tout son apport, ce qui augmente le coût global, mais permet de garder de la disponibilité en cas de coup dur ou de placement plus avantageux (surtout quand les taux sont bas)
 
+#### Le prêt à taux zero
+
+Le prêt à taux zero est un financement octroyé par l'Etat pour aider les ménages à devenir propriétaire.
+Les conditions évoluent régulièrement, mais le principe reste le même.
+
+Actuellement (nov 2014), sauf exceptions, le prêt à taux zero n'est disponible que pour les logements neufs, pour les personnes qui achètent pour la première fois.
+
+Les communes sont regroupées en zone (A bis/A/B/C) pour adapter les plafonds en fonction de la difficulté d'acheter.
+
+Pour accéder au prêt à taux zero, il y a des plafonds qui dépendent :
+ * de la zone de la commune
+ * des revenus des occupants
+ * du nombre de personnes dans le logement
+ 
+Au niveau du montant, il y a également un plafond sur lequel le prêt à taux zero s'applique.
+Le prêt n'est pas possible pour un bien dépassant 10 fois le plafond.
+Ensuite, le prêt est accordé sur un pourcentage de ce plafond.
 
 ## Pendant l'achat
 
