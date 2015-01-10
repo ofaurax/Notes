@@ -137,7 +137,7 @@ Est-il proche de votre travail ? Des services que vous utilisez régulièrement 
 Est-il éloigné des sources de nuisances visuelles, sonores, olfactives ?
 Est-ce qu'une future construction peut vous boucher la vue ?
 
-#### Gros oeuvre : murs, charpente
+#### Gros oeuvre : murs, charpente, toiture, sols
 
 Les façades sont à refaire environ tous les 10 ans (??? TODO pierre)
 
@@ -153,7 +153,9 @@ Cela est plus facile à voir sur un bien qui n'est pas occupé, en le visitant �
 
 Pour la ventilation, regardez les joints/plafonds dans les salles d'eau, c'est souvent très évocateur.
 
-#### Réseaux : eau, gaz, électricité
+Murs, double-vitrage, plafonds
+
+#### Réseaux : eau/plomberie, gaz, électricité
 
 Pour chacun des réseaux (eau, gaz, électricité), il est plus simple d'avoir un compteur individuel, mais ce n'est pas toujours le cas.
 Veillez à savoir comment sont réparties les dépenses en cas de mutualisation d'une chaudière par exemple.
