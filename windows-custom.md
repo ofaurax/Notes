@@ -23,6 +23,7 @@ Installer le wifi des lieux où l'ordi va être utilisé
   * Installer le plugin flash en dernière version
   * Mettre les favoris vers le mail et la banque, en HTTPS
 * Installer/configurer Dropbox pour sauvegarde automatique
+* WinCompose https://github.com/samhocevar/wincompose
 
 ### Setup visuel
 
